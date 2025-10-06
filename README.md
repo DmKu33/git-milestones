@@ -359,8 +359,10 @@ Forking, branching, pull requests
 
 Row | Step | Description | Completed
 --- | --- | --- | ---
-
-
+11 | 8-1 | What is in Owen's dev branch? | Contains a cool-new-feature mp4 file with that old song video (forgot the name)
+12 | 9-1 | Link to your new branch on github.com | [new-branch](https://github.com/DmKu33/git-milestones/tree/new-branch)
+13 | 10-1 | Link to your network graph | [Network Graph](https://github.com/DmKu33/git-milestones/network)
+14 | 11-1 | Link to the PR you made on a partner's github.com repo | [Partner PR (myself)]()
 </details>
 
 
