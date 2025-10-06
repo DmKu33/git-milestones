@@ -275,9 +275,15 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 Row | Step | Description | Completed
 --- | --- | --- | ---
 1 | 3-1 | 1st Favorite emoji | 💀
+2 | 3-2 | Link to `commit #1 from Github.com` | [commit #1 from Github.com](https://github.com/DmKu33/git-milestones/commit/a0cc1fe10da35ae457a2888e6b7dd6f03ac6a9ae)
+3 | 3-3 | Link to markdown tables docs | [Markdown Tables Guide](https://www.markdownguide.org/extended-syntax/#tables)
+4 | 3-4 | What does `log` do? | Shows commit history with information like author, date, and commits
 5 | 4-1 | 2nd Favorite emoji | 🔥
+6 | 4-2 | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/DmKu33/git-milestones/commit/9f226fd30c423dc29fb1e2548c4b948dae94d143)
 7 | 5-1 | Full path to your working directory | C:\Users\username\Desktop\Gits\git-milestones (replaced the username, for security reasons)
-
+8 | 5-2 | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/DmKu33/git-milestones/commit/a0cc1fe10da35ae457a2888e6b7dd6f03ac6a9ae)
+9 | 6-1 | Link to `first-website` github.com repo page | [first-website repo](https://github.com/DmKu33/web-dev-view-source)
+10 | 7-1 | Link to `first-website` github.io "project site" | [Live website](https://dmku33.github.io/web-dev-view-source/)
 
 
 # PART 2 - Git Collaboration
