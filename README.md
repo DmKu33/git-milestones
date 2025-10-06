@@ -275,8 +275,7 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 Row | Step | Description | Completed
 --- | --- | --- | ---
 1 | 3-1 | 1st Favorite emoji | 💀
-
-
+5 | 4-1 | 2nd Favorite emoji | 🔥
 
 
 
