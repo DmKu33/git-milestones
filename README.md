@@ -274,17 +274,7 @@ Now that we have basic Git commands out of the way use Git to create and turn in
 
 Row | Step | Description | Completed
 --- | --- | --- | ---
-1 | 3-1 | 1st Favorite emoji | ADD_TEXT_HERE
-2 | 3-2 | Link to `commit #1 from Github.com` |
-3 | 3-3 | Link to markdown tables docs |
-4 | 3-4 | What does `log` do? |
-5 | 4-1 | 2nd Favorite emoji |
-6 | 4-2 | Link to `commit #2 from Github Desktop` |
-7 | 5-1 | Full path to your working directory |
-8 | 5-2 | Link to `commit #3 from CLI` |
-9 | 6-1 | Link to `first-website` github.com repo page |
-10 | 7-1 | Link to `first-website` github.io "project site" |
-
+1 | 3-1 | 1st Favorite emoji | 💀
 
 
 
@@ -364,10 +354,6 @@ Forking, branching, pull requests
 
 Row | Step | Description | Completed
 --- | --- | --- | ---
-11 | 8-1 | What is in Owen's dev branch? | 
-12 | 9-1 | Link to your new branch on github.com | 
-13 | 10-1 | Link to your network graph | 
-14 | 11-1 | Link to the PR you made on a partner's github.com repo | 
 
 
 </details>
