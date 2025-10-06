@@ -276,7 +276,7 @@ Row | Step | Description | Completed
 --- | --- | --- | ---
 1 | 3-1 | 1st Favorite emoji | 💀
 5 | 4-1 | 2nd Favorite emoji | 🔥
-
+7 | 5-1 | Full path to your working directory | C:\Users\username\Desktop\Gits\git-milestones (replaced the username, for security reasons)
 
 
 
